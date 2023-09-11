@@ -5,4 +5,4 @@ The repository contains machine learning projects that i worked on for completin
 1.Predict_health_costs (Regression)\
 2.Sms_text_classification (Spam/Ham)\
 3.Book_recommendation (KNN)\
-4.Cat_dog (Image Classification with CNN)\
+4.Cat_dog (Image Classification with CNN)

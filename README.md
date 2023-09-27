@@ -1,4 +1,4 @@
-# FreeCodeCamp-Machine Learning with Python
+# FreeCodeCamp-Machine Learning with Python (Tensorflow)
 
 The repository contains machine learning projects that i worked on for completing the 'FreeCodeCamp Machine Learning with Python' course in freeCodeCamp.org
 \
